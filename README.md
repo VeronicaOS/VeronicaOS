@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Veronica 💃 </h1>
 <h3>A passionate frontend developer student from Norway</h3>
 
-- 👨‍💻 All of my projects are available at [https://eloquent-licorice-0d670d.netlify.app/](https://eloquent-licorice-0d670d.netlify.app/)
+- 👨‍💻 All of my projects are available at https://veronicaosvensson.netlify.app/
 - 📫 How to reach me: verols51029@stud.noroff.no
 - 🤓 Self diagnosed bookworm
 
